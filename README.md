@@ -1,4 +1,4 @@
-# This is the project RAG AI Agent 
+# This is a cybersecurity RAG AI Agent which uses chroma-db and embedding models to help extract details from a CSV file to answer relevant questions and get suggestions from the model.
 
 
 (venv) root@LENOVOLOQ:~/python-projects/RAG-AI-Agent# python3 main.py
